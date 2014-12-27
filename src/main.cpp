@@ -1,6 +1,6 @@
 #define GLEW_STATIC
-#include <GLFW/glfw3.h>
 #include <GL/glew.h>
+#include <GLFW/glfw3.h>
 #include <thread>
 #include "config.h"
 
